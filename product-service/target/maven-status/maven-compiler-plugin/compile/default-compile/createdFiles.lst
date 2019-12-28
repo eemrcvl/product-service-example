@@ -1,0 +1,7 @@
+demo\domain\Product.class
+demo\controller\ProductRestController.class
+demo\service\implementation\ProductServiceImplementation.class
+demo\controller\ProductMvcController.class
+demo\ProductServiceApplication.class
+demo\domain\ProductRepository.class
+demo\service\ProductService.class

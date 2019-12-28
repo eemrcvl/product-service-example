@@ -1,0 +1,2 @@
+insert into products
+values(10001, 'Kol Saati',250.0,15)
